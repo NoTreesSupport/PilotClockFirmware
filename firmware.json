@@ -1,5 +1,5 @@
 {
-    "version": "0.12",
-    "file": "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.12.bin",
+    "version": "0.13",
+    "file": "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.13.bin",
     "file2": "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.13_<MODEL>_<BOARD>.bin"    
 }
