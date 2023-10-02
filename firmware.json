@@ -1,5 +1,4 @@
 {
-    "version": "0.13",
-    "file": "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.13_cadet_makerfab35.bin",
-    "file2": "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.13_<MODEL>_<BOARD>.bin"    
+    "version": "0.14",
+    "file": "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.14_<MODEL>_<BOARD>.bin"    
 }
