@@ -1,6 +1,6 @@
 {
     "version": "0.28.3",
     "file": "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.28.3_<BOARD>.bin",
-    "version-beta": "0.29.b1",
-    "file-beta":  "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.29.b1_<BOARD>.bin",    
+    "version-beta": "0.29.b2",
+    "file-beta":  "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.29.b2_<BOARD>.bin"
 }
