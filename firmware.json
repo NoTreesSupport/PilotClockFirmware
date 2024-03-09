@@ -1,8 +1,8 @@
 {
     "version": "0.29.0",
     "file": "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.29.0_<BOARD>.bin",
-    "version-beta": "0.30.0-RC3",
-    "file-beta":  "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.30.0-RC3_<BOARD>.bin",
-    "version-alpha": "0.30.0-RC4",
-    "file-alpha":  "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.30.0-RC4_<BOARD>.bin"    
+    "version-beta": "0.30.0",
+    "file-beta":  "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.30.0_<BOARD>.bin",
+    "version-alpha": "0.30.0",
+    "file-alpha":  "https://raw.githubusercontent.com/NoTreesSupport/PilotClockFirmware/main/pilotclock_firmware_v0.30.0_<BOARD>.bin"    
 }
